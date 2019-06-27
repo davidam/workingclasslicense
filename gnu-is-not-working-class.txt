@@ -1,0 +1,66 @@
+					 ______________________________
+
+					  GNU IS NOT THE WORKING CLASS
+
+						 David Arroyo Menéndez
+					 ______________________________
+
+
+							   27/06/2019
+
+
+Table of Contents
+_________________
+
+
+
+
+The labour movement trends to improve the economy of the working class
+in general: defending positions, salarial conditions, ...
+
+GNU trends to program by militant reasons, that's free in the gratis
+sense, to generate a full operating sistem with General Public License.
+
+There are bussiness of rich men around of the free software, such as
+Oracle with Larry Ellison (Java, Mysql, etc.), or Linus Torvalds with
+the Linux kernel (used in servers, personal computers, or android)
+
+GNU, with the Free Software Foundation is converted in a GNO of values
+giving a ethical theory to make programming without a salary. In a
+practical way, all philosophical analysis about a little ethical idea
+about the technological fashion feature is ok, I'm not in disagreement.
+
+Richard Stallman has been many years speaking abouth ethics about the
+software in the world and earn reputation about it, specially in
+ideologies with more values, that's true in the left parties or trade
+unions, too. But, he nevers has spoken about the economical unequalities
+in the world.
+
+The fact is the model GNU with Linux, that is, GNO + rich men is a
+virical matter, because the ethical people is being more poor and the
+people with the economy has more money.
+
+Concluding, or this philosophy is integrated in standard political
+structures: trade unions, political parties, or companies, or the worker
+is working by no money.
+
+I agree the GNU philosophy for the ethical scientific, because if you
+can study, modify and redistribute your own software. You are improving
+your work in the university (for instance: dissemination, social
+reputation, etc.) creating public code.
+
+Is GNU and/or FSF an organization without ethical? The answer is
+not. But from my point of view, the voluntary work in any GNO has the
+problem that you are focusing your effort a little point of the society,
+with a trade union or political party you have a wide vision about the
+society, if you are agree with the ideology, of course.
+
+This article is a social alert about a philosophical empty in society
+about unequalities derived in the software industry, creating a strong
+social injustice in this moment of the history.
+
+In this moment, I maintain twice project to think solutions to avoid the
+economical injustices in relation with the software industry:
+
++ [http://libremanuals.net/]
++ [https://github.com/davidam/workingclasslicense]

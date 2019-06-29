@@ -1,0 +1,11 @@
+
+* Is the working class license an open source license?
+
+The Open Source Definition implements "5. No discrimination against
+persons or groups".
+
+So, a possitive discrimination in a socialdemocracy sense is out of
+Open Source Definition. To help to people with few resources, females,
+or some minority, we must use another kind of licenses or other ideas.
+
+You can visit [[https://opensource.org/osd][Open Source Definition]] to read the full definition.

@@ -14,3 +14,7 @@ This license is not compatible with GPL. But if you are the copyright
 holder, you can consider create a dual license for your
 software. Perhaps you want make the most new releases for the working
 class and give GPL software with other versions.
+* Is it so hard write an operating system with this license?
+If you are interested in this task I suggest starts from a BSD
+operating system. BSD license allows change the license, so you could
+identify a lot of software to use in your new operating system

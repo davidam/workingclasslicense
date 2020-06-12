@@ -620,18 +620,20 @@ the "copyright" line and a pointer to where the full notice is found.
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
 
-	This file is free software; you can redistribute it and/or modify it
- 	only for the working class under the terms of the Working Class
- 	License as published by David Arroyo Menéndez.
 
- 	This file is distributed in the hope that it will be useful,
- 	but WITHOUT ANY WARRANTY; without even the implied warranty of
- 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- 	Working Class License for more details.
+        This file is software with freedom of class; you can
+        redistribute it and/or modify it  only for the working
+        class under the terms of the Working Class License
+        published by David Arroyo Menéndez.
 
- 	You should have received a copy of the Working Class License along
- 	with Software XXX; see the file COPYING. If not, see
- 	<https://github.com/davidam/workingclasslicense>.
+        This file is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        Working Class License for more details.
+
+        You should have received a copy of the Working Class License along
+        with Software XXX; see the file COPYING. If not, see
+        <https://github.com/davidam/workingclasslicense>.
 
 Also add information on how to contact you by electronic and paper mail.
 

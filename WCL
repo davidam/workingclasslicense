@@ -1,30 +1,30 @@
                     WORKING CLASS LICENSE
-                  Version 0.0.1, 22 June 2019
+                  Version 0.0.2, 22 June 2019
 
- Copyright (C) 2019 David Arroyo Menéndez, <https://www.davidam.com/>
+ Copyright (C) 2020 David Arroyo Menéndez, <https://www.davidam.com/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
                             Preamble
 
-  The Working Class License is a free, copyleft license for software
-and other kinds of works only for the working class. With this
-license, the employer class can't stealing our freedom with more money
-without break the copyright laws.
+  The Working Class License is a virical license for software and
+other kinds of works only for the working class. With this license,
+the employer class can't stealing our freedom with more money without
+break the copyright laws.
 
   The licenses for most software and other practical works are
 designed to take away your freedom to share and change the works.  By
-contrast, conventional copyleft licenses such as GNU General Public
-License is intended to guarantee your freedom to share and change all
-versions of a program--to make sure it remains free software for all
-its users.
+contrast, conventional virical and copyleft licenses such as GNU
+General Public License is intended to guarantee your freedom to share
+and change all versions of a program--to make sure it remains free
+software for all its users.
 
   When we speak of free software, we are referring to freedom for all
 people. We understand that there are a strong economical gap in all
 society due to the software industry. This license allows that
-software works done by the working class to be enjoyed by the
-companies that is creating this situation. The freedom is caused by
-the economical situation, too.
+software works will be done by the working class to be fighting
+against the companies that is creating this situation. The freedom is
+caused by the economical situation, too.
 
   To protect your rights, we need to prevent others from denying you
 these rights or asking you to surrender the rights.  Therefore, you have
@@ -64,7 +64,7 @@ States should not allow patents to restrict development and use of
 software on general-purpose computers, but in those that do, we wish to
 avoid the special danger that patents applied to a free program could
 make it effectively proprietary.  To prevent this, the WCL assures that
-patents cannot be used to render the program non-free.
+patents cannot be used to render the program with another license.
 
   The precise terms and conditions for copying, distribution and
 modification follow.
@@ -73,13 +73,13 @@ modification follow.
 
   0. Definitions.
 
-  "This License" refers to version 3 of the GNU General Public License.
+  "This License" refers to version 0.0.2 of the WORKING CLASS LICENSE
 
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
 
   "The Program" refers to any copyrightable work licensed under this
-License.  Each licensee is addressed as "you".  "Licensees" and
+License.  Each license is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
 
   To "modify" a work means to copy from or adapt all or part of the work

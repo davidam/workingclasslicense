@@ -9,6 +9,16 @@ Open Source Definition. To help to people with few resources, females,
 or some minority, we must use another kind of licenses or other ideas.
 
 You can visit [[https://opensource.org/osd][Open Source Definition]] to read the full definition.
+
+* Is the working class license a propietary software license? 
+
+[[https://www.gnu.org/proprietary/proprietary.html][Propietary software]] is a term used by GNU about not Free Software, the
+working class license is non Free Software in the GNU sense. 
+
+We want claim that the positive discrimination in the software
+licenses is a good point for the freedom by the people. We are helping
+to United Nations to reach the objective about [[https://www.un.org/sustainabledevelopment/inequality/][Inequality]].
+
 * Is it possible make this license compatible with GPL?
 This license is not compatible with GPL. But if you are the copyright
 holder, you can consider create a dual license for your
